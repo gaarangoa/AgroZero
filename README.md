@@ -5,4 +5,3 @@ download the weights from here: https://github.com/gaarangoa/samv2 and place the
 
 ## Analysis
 to reproduce all analysis, check ```./code/```
-

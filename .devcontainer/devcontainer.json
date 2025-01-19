@@ -1,0 +1,8 @@
+{
+  "build": {
+      "dockerfile": "../Dockerfile"
+  },
+  "settings": {
+      "python.defaultInterpreterPath": "/usr/local/bin/python"
+  }
+}
